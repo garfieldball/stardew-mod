@@ -1,29 +1,26 @@
 {
-"ConfigSchema": {
+  "Format": "2.7.2",
+
+  "ConfigSchema": {
     "Variant": {
-      "AllowValues": ["canon", "lore"],
-      "Default": "lore",
-      "AllowBlank": false
+      "AllowValues": "canon, lore",
+      "Default": "lore"
     },
     "Style": {
-      "AllowValues": ["canon", "lore"],
-      "Default": "lore",
-      "AllowBlank": false
+      "AllowValues": "canon, lore",
+      "Default": "lore"
     },
     "Seasonal": {
-      "AllowValues": [true, false],
-      "Default": true,
-      "AllowBlank": false
+      "AllowValues": "true, false",
+      "Default": "true"
     },
     "Babies Take After": {
-      "AllowValues": [true, false],
-      "Default": true,
-      "AllowBlank": false
+      "AllowValues": "true, false",
+      "Default": "true"
     },
     "Nailpolish": {
-      "AllowValues": [true, false],
-      "Default": false,
-      "AllowBlank": false
+      "AllowValues": "true, false",
+      "Default": "false"
     }
   },
 	
@@ -32,15 +29,15 @@
       "Name": "WeatherVariant",
       "Value": "Rain",
       "When": {
-        "Season": ["spring", "summer", "fall"],
-        "Weather": ["rain", "storm", "snow"]
+        "Season": "spring, summer, fall",
+        "Weather": "rain, storm, snow"
       }
     },
     {
       "Name": "WeatherVariant",
       "Value": "Sun",
       "When": {
-        "Weather": ["sun", "wind"],
+        "Weather": "sun, wind",
         "IsOutdoors": true
       }
     },
@@ -48,8 +45,8 @@
       "Name": "WeatherVariant",
       "Value": "Snow",
       "When": {
-        "Season": ["winter"],
-        "Weather": ["snow", "rain", "storm"],
+        "Season": "winter",
+        "Weather": "snow, wind, rain, storm",
         "IsOutdoors": true
       }
     },
