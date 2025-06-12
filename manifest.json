@@ -1,14 +1,9 @@
 {
   "Name": "Custom NPC - Nagito",
-  "Author": "LavenderLight, fixed by Fishstick",
-  "Description": "Custom NPC Nagito fixed as of 2025",
+  "Author": "LavenderLight, fixed by fishstick",
+  "Description": "Custom NPC Nagito fixed as of 2025 :3",
   "UniqueID": "Lavender.Nagito",
-  "Version": "1.6.15",
-  "ContentPackFor": {
-      "UniqueID": "Pathoschild.ContentPatcher"
-  },
-  
-  "UpdateKeys": [
-      "Nexus:6322"
-  ]
+  "Version": "1.0.0",
+  "ContentPackFor": {"UniqueID": "Pathoschild.ContentPatcher"},
+  "UpdateKeys": []
 }
