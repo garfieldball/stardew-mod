@@ -1,0 +1,6 @@
+{
+	"Entries": {
+                "777062/f Nagito 1500/n NagitoTalisman/e 77706": "nightTime/-1000 -1000/farmer 33 18 2 Nagito 34 25 2/viewport 34 25/fade/skippable/addLantern 735 35 25 1/move farmer 0 7 2/pause 500/speak Nagito \"Pretty neat, huh?\"/faceDirection farmer 1/emote farmer 8/speak Nagito \"It's supposed to be blessed... a good luck charm.\"/showFrame Nagito 23/pause 1000/speak Nagito \"I know it's silly... but... it helps me feel better.$s\"/pause 500/question fork1 \"#Don't you think it's time you move on from superstition?#It's not silly. I think it's sweet, actually.\"/fork noJudge/friendship Nagito -50/speak Nagito \"You may not understand it, but it's comforting. If I didn't, I-\"/pause 200/showFrame Nagito 23/emote Nagito 40/faceDirection Nagito 3/speak Nagito \"Nevermind. I should let you get back to it. It's getting late anyhow.\"/pause 50/speak Nagito \"See ya.\"/move Nagito 0 -8 0 true/faceDirection farmer 0/globalFade/viewport -1000 -1000/end",
+                "noJudge": "friendship Nagito 50/speak Nagito \"I had a feeling you'd understand! You seem to get me!$h\"/pause 100/speak Nagito \"Anyway, I should let you get back to it.$h\"/move Nagito 0 -8 0 true/faceDirection farmer 0/globalFade/viewport -1000 -1000/end dialogueWarpOut Nagito \"Thank you for listening to me ramble.$h\""
+    }
+}

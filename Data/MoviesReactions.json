@@ -1,0 +1,52 @@
+{
+  "Entries": {
+    "Nagito": {
+      "reaction_0_Tag": "documentary",
+      "reaction_0_Response": "love",
+
+      "reaction_1_Tag": "classic",
+      "reaction_1_Response": "love",
+
+      "reaction_2_Tag": "action",
+      "reaction_2_Response": "dislike",
+
+      "reaction_3_Tag": "horror",
+      "reaction_3_Response": "like",
+
+      "reaction_4_Tag": "comedy",
+      "reaction_4_Response": "like",
+
+      "reaction_5_Tag": "winter_movie_0",
+      "reaction_5_Response": "love",
+      "reaction_5_BeforeMovie_Text": "Hmm... I wonder what the 'miracle' is?$u",
+      "reaction_5_DuringMovie_Text": "Wow...! Lucky them!$h",
+      "reaction_5_AfterMovie_Text": "That was so hopeful, so inspiring...! They could had died but made it through! Really restores your faith in humanity!$h",
+
+      "reaction_6_Tag": "winter_movie_1",
+      "reaction_6_Response": "like",
+      "reaction_6_BeforeMovie_Text": "I heard this film explores the inner conflicts of the lead... should be exciting!",
+      "reaction_6_DuringMovie_Text": "Nagito is watching attentively.",
+      "reaction_6_AfterMovie_Text": "That film leaves you with questions, huh? I enjoyed the ambiguous ending.#$b# Thanks for inviting me...!$h",
+
+      "reaction_7_Tag": "love",
+      "reaction_7_Response": "like",
+      "reaction_7_BeforeMovie_Text": "This sounds like a good one, @.",
+      "reaction_7_DuringMovie_Text": "Nagito is fully immersed in the film...$9",
+      "reaction_7_AfterMovie_Text": "That was a good little adventure, wasn't it?",
+
+      "reaction_8_Tag": "like",
+      "reaction_8_Response": "like",
+      "reaction_8_BeforeMovie_Text": "Thank you for inviting me, @.",
+      "reaction_8_AfterMovie_Text": "There were some silly parts, but I liked it.$9",
+
+      "reaction_9_Tag": "dislike",
+      "reaction_9_Response": "like",
+      "reaction_9_BeforeMovie_Text": "Are you excited, @?",
+      "reaction_9_DuringMovie_Text": "Nagito seems to be falling asleep...",
+      "reaction_9_AfterMovie_Text": "Sorry for dozing off there! I guess it wasn't for me!$6",
+
+      "reaction_10_Tag": "family",
+      "reaction_10_Response": "like"
+    }
+  }
+}
