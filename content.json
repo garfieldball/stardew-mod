@@ -1,6 +1,5 @@
 {
-  "Format": "2.7.2",
-
+  "Format": "2.7.0",
   "ConfigSchema": {
     "Variant": {
       "AllowValues": "canon, lore",
